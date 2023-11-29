@@ -1,6 +1,6 @@
-# projet-5
+# Project-5
 
-Automatically Classify Consumer Goods
+# Automatically Classify Consumer Goods
 
 Introduction:
 
